@@ -22,3 +22,21 @@ layout: default
 ## AI Usage Statement
 
 *Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
+
+
+# Week 01
+## Getting started with Markdown
+
+Image Practise
+
+Way 1
+
+![Cat](https://cdn.shopify.com/s/files/1/0775/9413/2783/files/Funny_Cat_Memes.png?v=1764917944)
+
+Way 2
+
+<img src="https://i.pinimg.com/170x/98/fd/79/98fd79543ee81be77d31d2f90ea84bdd.jpg" width="450">
+
+<img src="https://cdn.shopify.com/s/files/1/0775/9413/2783/files/Funny_Cat_Memes.png?v=1764917944" width="300">
+
+This use HTML and you can size it using pixels or percentage.
