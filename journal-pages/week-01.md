@@ -8,22 +8,6 @@ layout: default
 
 ## Documentation 
 
-*Include your documentation for the week. Devise your own structure of headings relevant to the required tasks and your process.*
-
-## Images & Media
-
-*Use the format below to embed images from your assets folder:*
-
-`![Alt text](../assets/week-01/your-image.jpg)`
-`*Your caption here*`
-
-*The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
-
-## AI Usage Statement
-
-*Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
-
-
 # Week 01
 ## Getting started with Markdown
 
@@ -39,4 +23,14 @@ Way 2
 <img src="https://cdn.shopify.com/s/files/1/0775/9413/2783/files/Funny_Cat_Memes.png?v=1764917944" width="450">
 
 This use HTML and you can size it using pixels or percentage.
+
+# Experiment 1
+# Week 1: Data Drawings
+
+## Independent Study: Data Portrait
+Overview:
+Create your own data portrait: a hand-drawn visualisation of personal data collected over several days.
+
+The aspect I chose about my daily life is the colours of objects that I physically interact with. I felt that choosing this would provide with a large and interest look into the data of a daily task I would never put my mind to as much.
+
 
