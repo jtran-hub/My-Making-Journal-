@@ -48,6 +48,21 @@ I can also reize the image using some more code.
 ### Overview:
 Create your own data portrait: a hand-drawn visualisation of personal data collected over several days.
 
+<img src="../" alt="" width="600"/>
+
+<img src="../" alt="" width="600"/>
+
+<img src="../" alt="" width="600"/>
+
+<img src="../" alt="" width="600"/>
+
+<img src="../" alt="" width="600"/>
+
+<img src="../" alt="" width="600"/>
+
+<img src="../assets/week-01/20260403_184704.jpg" alt="" width="650"/>
+
+
 ## *Reflection (300–500 words) addressing:*
 • What did you choose to track, and why?
 
