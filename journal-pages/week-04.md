@@ -6,24 +6,8 @@ layout: default
 
 [← Back to Home](../index.md)
 
-## Documentation 
-
-*Include your documentation for the week. Devise your own structure of headings relevant to the required tasks and your process.*
-
-## Images & Media
-
-*Use the format below to embed images from your assets folder:*
-
-`![Alt text](../assets/week-01/your-image.jpg)`
-`*Your caption here*`
-
-*The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
-
-## AI Usage Statement
-
-*Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
-
 # Experiment 4 
+
 # Week 4 - Artificial Intelligence
 
 ## In class activities
@@ -70,7 +54,11 @@ For each version, make deliberate design decisions about what to change. You mig
 Look at the representations you've produced and reflect on the AI's design choices:
 
 What did the AI default to? (e.g. bar charts, blue colour schemes, generic titles)
+
 What did you have to override or redirect?
+
 What assumptions did the AI make about the data or the audience?
+
 Which representation is the most interesting, and why?
+
 What would you do differently if you were building this without AI?

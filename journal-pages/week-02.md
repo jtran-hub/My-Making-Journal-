@@ -8,6 +8,7 @@ layout: default
 
 
 # Experiment 2 
+
 # Week 2 - Interactivity
 
 ## In class activities
@@ -62,8 +63,13 @@ Surpringly every part of the code worked without major flaws. From a simple copy
 ### Step 2: 
 
 Consider:
+
 - What can interaction reveal that your hand-drawn portrait could not?
+
+
 - How do your controls relate to the structure of your data?
+
+
 - What happens when the viewer changes something? Is the response immediate, gradual, surprising?
 
 ### Step 3: 
