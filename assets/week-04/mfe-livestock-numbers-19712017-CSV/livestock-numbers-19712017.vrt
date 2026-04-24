@@ -1,0 +1,11 @@
+<OGRVRTDataSource>
+  <OGRVRTLayer name="livestock-numbers-19712017">
+    <SrcDataSource relativeToVRT="1">livestock-numbers-19712017.csv</SrcDataSource>
+    <FeatureCount>4240</FeatureCount>
+    <Field name="geography_type" src="geography_type" type="String" />
+    <Field name="geography_name" src="geography_name" type="String" />
+    <Field name="year" src="year" type="String" />
+    <Field name="animal" src="animal" type="String" />
+    <Field name="count" src="count" type="String" />
+  </OGRVRTLayer>
+</OGRVRTDataSource>
